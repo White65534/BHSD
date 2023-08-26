@@ -14,7 +14,7 @@ We provide experimental results with state-of-the-art models as reference benchm
  
 
 
-![Med palm](image-9.png)
+![BHSD](brains.png)
 
 
  
