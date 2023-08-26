@@ -19,19 +19,10 @@ We provide experimental results with state-of-the-art models as reference benchm
 - Access the datasets used in the paper! [Click here for a dive into dataset strategies](https://www.kaggle.com/datasets/stevezeyuzhang/bhsd-dataset)
 - Data is being reviewed, wait a few days for access !!!!!
 
-## 💼 Commercial Use-Cases
-
-Med Palm has thousands of potential use cases the 3 below are simple, for more detailed applications check out my new blog article on MedPalm's use in the real world. [Click here to learn more](https://medium.com/@kyeg/how-medpalm-is-revolutionizing-medicine-62eef979f0e5)
-
-- **Clinical Diagnostics**: Combining medical imaging, patient tales 📖, and genes, we're aiming for top-notch diagnostic solutions.
-  
-- **Healthcare Research**: Dive deep into diverse datasets and discover something new with Med-PaLM by your side! 🤿
-  
-- **Telemedicine**: Quick, reliable, and remote! 🌍 Med-PaLM's here to revolutionize telehealth.
 
 # Contributing to BHSD 🤖🌟
 
-First off, big high fives 🙌 and thank you for considering a contribution to Med Palm! Your help and enthusiasm can truly elevate this project. Whether you're fixing bugs 🐛, adding features 🎁, or just providing feedback, every bit matters! Here's a step-by-step guide to make your contribution journey smooth:
+First off, big high fives 🙌 and thank you for considering a contribution to BHSD! Your help and enthusiasm can truly elevate this project. Whether you're fixing bugs 🐛, adding features 🎁, or just providing feedback, every bit matters! Here's a step-by-step guide to make your contribution journey smooth:
 
 
 
