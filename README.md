@@ -10,17 +10,13 @@ We provide experimental results with state-of-the-art models as reference benchm
 
 
 
-
- 
-
-
 ![BHSD](brains.png)
 
 
  
 
 ## 📚 Datasets 
-- deep-dive into the datasets used in the paper! [Click here for a dive into dataset strategies](docs/DATASETS.md)
+- Access the datasets used in the paper! [Click here for a dive into dataset strategies](https://www.kaggle.com/datasets/stevezeyuzhang/bhsd-dataset)
 
 ## 💼 Commercial Use-Cases
 
