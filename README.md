@@ -16,27 +16,8 @@ We provide experimental results with state-of-the-art models as reference benchm
 
 ![Med palm](image-9.png)
 
-## Getting Started
 
-```
-pip install MedPalm
-```
-
-## Usage
-
-
-```python
-import torch
-from medpalm.model import MedPalm
-
-#usage
-img = torch.randn(1, 3, 256, 256)
-text = torch.randint(0, 20000, (1, 4096))
-
-model = MedPalm()
-output = model(text, img)
-```
-📝 Note: Modify the examples to suit your data and project needs.
+ 
 
 ## 📚 Datasets 
 - deep-dive into the datasets used in the paper! [Click here for a dive into dataset strategies](docs/DATASETS.md)
