@@ -32,4 +32,13 @@ BHSD's is under the MIT license. Check out the details [here](LICENSE.md).
 
 ## Citation
 
-Tao Tu, Shekoofeh Azizi, Danny Driess, Mike Schaekermann, Mohamed Amin, Pi-Chuan Chang, Andrew Carroll, Chuck Lau, Ryutaro Tanno, Ira Ktena, Basil Mustafa, Aakanksha Chowdhery, Yun Liu, Simon Kornblith, David Fleet, Philip Mansfield, Sushant Prakash, Renee Wong, Sunny Virmani, Christopher Semturs, S Sara Mahdavi, Bradley Green, Ewa Dominowska, Blaise Aguera y Arcas, Joelle Barral, Dale Webster, Greg S. Corrado, Yossi Matias, Karan Singhal, Pete Florence, Alan Karthikesalingam, Vivek Natarajan. "Towards Generalist Biomedical AI." arXiv:2307.14334 [cs.CL], July 26, 2023.
+### Reference
+If you found our work useful in your research, please consider citing our works(s) at:
+```bash
+@article{wu2023bhsd,
+  title={BHSD: A 3D Multi-Class Brain Hemorrhage Segmentation Dataset},
+  author={Wu, Biao and Xie, Yutong and Zhang, Zeyu and Ge, Jinchao and Yaxley, Kaspar and Bahadir, Suzan and Wu, Qi and Liu, Yifan and To, Minh-Son},
+  journal={arXiv preprint arXiv:2308.11298},
+  year={2023}
+}
+```
