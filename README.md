@@ -35,7 +35,6 @@ BHSD's is under the MIT license. Check out the details [here](LICENSE.md).
 
 ## Citation
 
-### Reference
 If you found our work useful in your research, please consider citing our works(s) at:
 ```bash
 @article{wu2023bhsd,
