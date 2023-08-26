@@ -1,5 +1,7 @@
 # BHSD
 
+ 
+[BHSD: A 3D Multi-Class Brain Hemorrhage Segmentation Dataset](https://arxiv.org/pdf/2308.11298.pdf), MICCAI Workshop 2023.
 
 Intracranial hemorrhage (ICH) is a pathological condition characterized by bleeding inside the skull or brain, which can be attributed to various factors. 
 Identifying, localizing and quantifying ICH has important clinical implications, in a bleed-dependent manner. 
