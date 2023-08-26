@@ -1,6 +1,6 @@
 # BHSD
 
-This is the Official Dataset of Brain Hemorrhage Segmentation at MICCAI Workshop 2023.
+## This is the Official Dataset of Brain Hemorrhage Segmentation at MICCAI Workshop 2023.
  
 [BHSD: A 3D Multi-Class Brain Hemorrhage Segmentation Dataset](https://arxiv.org/pdf/2308.11298.pdf)
 
