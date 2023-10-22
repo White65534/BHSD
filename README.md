@@ -6,7 +6,7 @@ Authors: Biao Wu, Yutong Xie, Zeyu Zhang, Jinchao Ge, Kaspar Yaxley, Suzan Bahad
 
 ## This is the Official Dataset of Brain Hemorrhage Segmentation at MLMI 2023.
  
-[[Paper](https://doi.org/10.1007/978-3-031-45673-2_15)] [[Preprint](https://arxiv.org/pdf/2308.11298.pdf)] [[Dataset](https://www.kaggle.com/datasets/stevezeyuzhang/bhsd-dataset)]
+[[Paper](https://doi.org/10.1007/978-3-031-45673-2_15)] [[arXiv](https://arxiv.org/abs/2308.11298.pdf)] [[Dataset](https://www.kaggle.com/datasets/stevezeyuzhang/bhsd-dataset)]
 
 Intracranial hemorrhage (ICH) is a pathological condition characterized by bleeding inside the skull or brain, which can be attributed to various factors. 
 Identifying, localizing and quantifying ICH has important clinical implications, in a bleed-dependent manner. 
