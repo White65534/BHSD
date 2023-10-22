@@ -1,6 +1,6 @@
 # BHSD: A 3D Multi-class Brain Hemorrhage Segmentation Dataset
 
-Authors: [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en), [Yutong Xie](https://v3alab.github.io/author/yutong-xie/), Zeyu Zhang, Jinchao Ge, Kaspar Yaxley, Suzan Bahadir, [Qi Wu](http://www.qi-wu.me/), [Yifan Liu](https://scholar.google.com/citations?user=ksQ4JnQAAAAJ&hl=zh-CN), [Minh-Son To](https://www.flinders.edu.au/people/minhson.to)*
+Authors: [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en), [Yutong Xie](https://v3alab.github.io/author/yutong-xie/), Zeyu Zhang, Jinchao Ge, [Kaspar Yaxley](https://radiopaedia.org/users/kaspar-lewis-yaxley?lang=us), Suzan Bahadir, [Qi Wu](http://www.qi-wu.me/), [Yifan Liu](https://scholar.google.com/citations?user=ksQ4JnQAAAAJ&hl=zh-CN), [Minh-Son To](https://www.flinders.edu.au/people/minhson.to)*
 
 *Corresponding author: [minhson.to@flinders.edu.au](minhson.to@flinders.edu.au)
  
