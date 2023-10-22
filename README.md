@@ -3,8 +3,6 @@
 Authors: Biao Wu, Yutong Xie, Zeyu Zhang, Jinchao Ge, Kaspar Yaxley, Suzan Bahadir, Qi Wu, Yifan Liu, Minh-Son To*
 
 *Corresponding author: [minhson.to@flinders.edu.au](minhson.to@flinders.edu.au)
-
-## This is the Official Dataset of Brain Hemorrhage Segmentation at MLMI 2023.
  
 [[Paper](https://doi.org/10.1007/978-3-031-45673-2_15)] [[arXiv](https://arxiv.org/abs/2308.11298.pdf)] [[Dataset](https://www.kaggle.com/datasets/stevezeyuzhang/bhsd-dataset)]
 
