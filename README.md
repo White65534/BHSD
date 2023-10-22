@@ -35,11 +35,13 @@ BHSD's is under the MIT license. Check out the details [here](LICENSE.md).
 ## Citation
 
 If you found our work useful in your research, please consider citing our works(s) at:
-```bash
-@article{wu2023bhsd,
-  title={BHSD: A 3D Multi-Class Brain Hemorrhage Segmentation Dataset},
+```
+@inproceedings{wu2023bhsd,
+  title={BHSD: A 3D Multi-class Brain Hemorrhage Segmentation Dataset},
   author={Wu, Biao and Xie, Yutong and Zhang, Zeyu and Ge, Jinchao and Yaxley, Kaspar and Bahadir, Suzan and Wu, Qi and Liu, Yifan and To, Minh-Son},
-  journal={arXiv preprint arXiv:2308.11298},
-  year={2023}
+  booktitle={International Workshop on Machine Learning in Medical Imaging},
+  pages={147--156},
+  year={2023},
+  organization={Springer}
 }
 ```
