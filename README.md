@@ -20,7 +20,6 @@ We provide experimental results with state-of-the-art models as reference benchm
 
 ## 📚 Datasets 
 - Access the datasets used in the paper! [Dataset is publicly available on Kaggle](https://www.kaggle.com/datasets/stevezeyuzhang/bhsd-dataset)
-- Data is being reviewed, wait a few days for access !!!!!
 
 
 # Contributing to BHSD 🤖🌟
