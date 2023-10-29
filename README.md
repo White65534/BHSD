@@ -2,7 +2,7 @@
 
 Authors: [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en), [Yutong Xie](https://v3alab.github.io/author/yutong-xie/), [Zeyu Zhang](steve-zeyu-zhang.github.io), [Jinchao Ge](https://github.com/jinchaogjc), [Kaspar Yaxley](https://radiopaedia.org/users/kaspar-lewis-yaxley?lang=us), [Suzan Bahadir](https://au.linkedin.com/in/suzan-bahadir-57870416b), [Qi Wu](http://www.qi-wu.me/), [Yifan Liu](https://scholar.google.com/citations?user=ksQ4JnQAAAAJ&hl=zh-CN), [Minh-Son To](https://www.flinders.edu.au/people/minhson.to)*
 
-*Corresponding author: [minhson.to@flinders.edu.au](minhson.to@flinders.edu.au)
+*Corresponding author
  
 [[Paper](https://doi.org/10.1007/978-3-031-45673-2_15)] [[arXiv](https://arxiv.org/abs/2308.11298.pdf)] [[Dataset](https://www.kaggle.com/datasets/stevezeyuzhang/bhsd-dataset)]
 
