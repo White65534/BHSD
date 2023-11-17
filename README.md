@@ -23,6 +23,10 @@ We provide experimental results with state-of-the-art models as reference benchm
 ## 📚 Datasets 
 - Access the datasets used in the paper! [Dataset is publicly available on Kaggle](https://www.kaggle.com/datasets/stevezeyuzhang/bhsd-dataset)
 
+### News
+
+🌟 Our paper has been indexed by [CVer](https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=588155111148854&group_id=142181451122&inviter_id=585252854845544)!
+
 
 # Contributing to BHSD 🤖🌟
 
