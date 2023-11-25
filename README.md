@@ -46,7 +46,7 @@ BHSD's is under the MIT license. Check out the details [here](LICENSE.md).
 
 ## Citation
 
-If you found our work useful in your research, please consider citing our work at:
+For academic use, please cite:
 ```
 @inproceedings{wu2023bhsd,
   title={BHSD: A 3D Multi-class Brain Hemorrhage Segmentation Dataset},
