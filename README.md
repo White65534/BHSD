@@ -18,16 +18,18 @@ We provide experimental results with state-of-the-art models as reference benchm
 ![BHSD](brains.png)
 
 
- 
+# News
+
+\[08/23/2023\] Our paper has been indexed by [CVer](https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=588155111148854&group_id=142181451122&inviter_id=585252854845544)!
 
 # 📚 Datasets 
 - Access the datasets used in the paper! [Dataset is publicly available on Kaggle](https://www.kaggle.com/datasets/stevezeyuzhang/bhsd-dataset)
 - For the official train-test split used in the paper, see [dataset.json](https://github.com/White65534/BHSD/blob/main/dataset.json).
-- The format is ```.nii.gz```
+- The format is ```.nii.gz```.
 
-# News
+# Contact us
 
-\[08/23/2023\] Our paper has been indexed by [CVer](https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=588155111148854&group_id=142181451122&inviter_id=585252854845544)!
+Please do not hesitate to open an issue. You don't want to send us an email since you probably not getting prompt feedback.
 
 
 # Contributing to BHSD 🤖🌟
