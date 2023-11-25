@@ -27,6 +27,21 @@ We provide experimental results with state-of-the-art models as reference benchm
 - For the official train-test split and label of each semantic used in the paper, see [dataset.json](https://github.com/White65534/BHSD/blob/main/dataset.json).
 - The format is ```.nii.gz```.
 
+
+# Citation
+
+For academic use, please cite:
+```
+@inproceedings{wu2023bhsd,
+  title={BHSD: A 3D Multi-class Brain Hemorrhage Segmentation Dataset},
+  author={Wu, Biao and Xie, Yutong and Zhang, Zeyu and Ge, Jinchao and Yaxley, Kaspar and Bahadir, Suzan and Wu, Qi and Liu, Yifan and To, Minh-Son},
+  booktitle={International Workshop on Machine Learning in Medical Imaging},
+  pages={147--156},
+  year={2023},
+  organization={Springer}
+}
+```
+
 # Contact us
 
 Please do not hesitate to open an issue. You don't want to send us an email since you probably not getting prompt feedback.
@@ -40,20 +55,6 @@ Please open a new issue when contributing to BHSD.
 
 
 
-## License
+# License
 
 BHSD's is under the MIT license. Check out the details [here](LICENSE.md).
-
-## Citation
-
-For academic use, please cite:
-```
-@inproceedings{wu2023bhsd,
-  title={BHSD: A 3D Multi-class Brain Hemorrhage Segmentation Dataset},
-  author={Wu, Biao and Xie, Yutong and Zhang, Zeyu and Ge, Jinchao and Yaxley, Kaspar and Bahadir, Suzan and Wu, Qi and Liu, Yifan and To, Minh-Son},
-  booktitle={International Workshop on Machine Learning in Medical Imaging},
-  pages={147--156},
-  year={2023},
-  organization={Springer}
-}
-```
