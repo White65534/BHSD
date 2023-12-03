@@ -4,7 +4,7 @@ Authors: [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en)
 
 *Corresponding author
  
-[[Paper](https://doi.org/10.1007/978-3-031-45673-2_15)] [arXiv [v1](https://arxiv.org/abs/2308.11298v1) [v2](https://arxiv.org/abs/2308.11298.pdf)] [[Dataset](https://www.kaggle.com/datasets/stevezeyuzhang/bhsd-dataset)] [[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:1mvw_1V9vEUJ:scholar.google.com/&output=citation&scisdr=ClExFnflEO_glekk1s4:AFWwaeYAAAAAZU4izs6siI_2xMS6Wp9IoWGbcV0&scisig=AFWwaeYAAAAAZU4izr334dJSoomwBnrG2NIHZzE&scisf=4&ct=citation&cd=-1&hl=en)]
+[[Paper](https://doi.org/10.1007/978-3-031-45673-2_15)] [arXiv [v1](https://arxiv.org/abs/2308.11298v1) [v2](https://arxiv.org/abs/2308.11298.pdf)] [[Dataset](https://www.kaggle.com/datasets/stevezeyuzhang/bhsd-dataset)] [[BibTeX](https://github.com/White65534/BHSD/tree/main#citation)]
 
 Intracranial hemorrhage (ICH) is a pathological condition characterized by bleeding inside the skull or brain, which can be attributed to various factors. 
 Identifying, localizing and quantifying ICH has important clinical implications, in a bleed-dependent manner. 
