@@ -20,6 +20,8 @@ We provide experimental results with state-of-the-art models as reference benchm
 
 # News
 
+\[09/29/2023\] Our paper has been accepted by [MLMI 2023](https://sites.google.com/view/mlmi2023)!
+
 \[08/23/2023\] Our paper has been indexed by [CVer](https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=588155111148854&group_id=142181451122&inviter_id=585252854845544)!
 
 # 📚 Datasets 
