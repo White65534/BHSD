@@ -20,7 +20,7 @@ We provide experimental results with state-of-the-art models as reference benchm
 
 # News
 
-\[02/27/2024\] 👉 Please see our latest work: <a href="https://steve-zeyu-zhang.github.io/Awesome-3D-Medical-Imaging-Segmentation/">3D Medical Imaging Segmentation: A Comprehensive Survey</a> for latest updates on 3D medical imaging segmentation.
+\[02/27/2024\] 👉 Please see our latest work: <a href="https://steve-zeyu-zhang.github.io/Awesome-3D-Medical-Imaging-Segmentation/"><b>3D Medical Imaging Segmentation: A Comprehensive Survey</b></a> for latest updates on 3D medical imaging segmentation.
 
 \[09/29/2023\] Our paper has been accepted by [MLMI 2023](https://sites.google.com/view/mlmi2023)!
 
