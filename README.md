@@ -63,6 +63,6 @@ Please open a new issue when contributing to BHSD.
 
 # License
 
-BHSD is under NCND license. no commerical use.
+BHSD is under NCND license. no commerical use. Do not modify BHSD for another dataset.
 
 ![license](https://github.com/White65534/BHSD/blob/main/license.png)
