@@ -63,4 +63,6 @@ Please open a new issue when contributing to BHSD.
 
 # License
 
-BHSD's is under the MIT license. Check out the details [here](LICENSE.md).
+BHSD is under NCND license. no commerical use.
+
+![license](https://github.com/White65534/BHSD/blob/main/license.png)
