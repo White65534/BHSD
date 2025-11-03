@@ -4,7 +4,7 @@ Authors: [Biao Wu](https://scholar.google.com/citations?user=Y3SBBWMAAAAJ&hl=en)
 
 *Corresponding author
 
-<em><b>MLMI 2023</b></em>
+<em><b>MICCAI 2023 Workshop MLMI</b></em>
  
 [[Paper](https://doi.org/10.1007/978-3-031-45673-2_15)] [arXiv [v1](https://arxiv.org/abs/2308.11298v1) [v2](https://arxiv.org/abs/2308.11298.pdf)] [[Dataset](https://huggingface.co/datasets/WuBiao/BHSD)] [[BibTeX](https://github.com/White65534/BHSD/tree/main#citation)]
 
